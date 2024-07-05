@@ -1,0 +1,4 @@
+resultati
+
+52851 -- too high
+52840 -- solution
